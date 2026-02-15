@@ -501,7 +501,9 @@
       "version": 4
     },
     "net_colors": {
-      "GND": "rgb(78, 110, 255)"
+      "+3.3V": "rgb(255, 251, 43)",
+      "GND": "rgb(78, 110, 255)",
+      "VBUS": "rgb(81, 255, 60)"
     },
     "netclass_assignments": null,
     "netclass_patterns": []

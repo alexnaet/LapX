@@ -4940,8 +4940,12 @@
 		(uuid "3c92a3d3-71b3-416b-91e4-eca29204206f")
 	)
 	(no_connect
-		(at 278.13 224.79)
-		(uuid "3ccefc7b-e98b-4536-a316-be0d5575e7a7")
+		(at 267.97 232.41)
+		(uuid "40234aca-d767-41e5-a29b-e0611f6a92e8")
+	)
+	(no_connect
+		(at 267.97 224.79)
+		(uuid "47e48561-835e-4279-82d5-d95dcc31189a")
 	)
 	(no_connect
 		(at 293.37 119.38)
@@ -4962,10 +4966,6 @@
 	(no_connect
 		(at 293.37 129.54)
 		(uuid "5ddd8a5b-7176-4ca5-afbd-37d9cb1b78cb")
-	)
-	(no_connect
-		(at 278.13 232.41)
-		(uuid "63001d91-d222-43be-8373-c383c7ab19ee")
 	)
 	(no_connect
 		(at 293.37 124.46)
@@ -5190,16 +5190,6 @@
 			(type default)
 		)
 		(uuid "1c3deb70-b63b-4da4-83c5-3c0ceef45763")
-	)
-	(wire
-		(pts
-			(xy 267.97 222.25) (xy 267.97 224.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1d3ac2bc-dae4-4adb-a893-b40fbf375b51")
 	)
 	(wire
 		(pts
@@ -5473,6 +5463,16 @@
 	)
 	(wire
 		(pts
+			(xy 196.85 222.25) (xy 196.85 224.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "45e8654c-007a-40b2-a8d4-9b575c9a4e3e")
+	)
+	(wire
+		(pts
 			(xy 143.51 121.92) (xy 127 121.92)
 		)
 		(stroke
@@ -5663,7 +5663,7 @@
 	)
 	(wire
 		(pts
-			(xy 317.5 40.64) (xy 330.2 40.64)
+			(xy 317.5 40.64) (xy 327.66 40.64)
 		)
 		(stroke
 			(width 0)
@@ -5690,6 +5690,16 @@
 			(type default)
 		)
 		(uuid "66f7c409-60db-4cc7-b8cb-c94dee4a2d95")
+	)
+	(wire
+		(pts
+			(xy 196.85 242.57) (xy 196.85 232.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6700606f-d3fd-4e60-a757-2ee2a91d5312")
 	)
 	(wire
 		(pts
@@ -5803,7 +5813,7 @@
 	)
 	(wire
 		(pts
-			(xy 337.82 40.64) (xy 345.44 40.64)
+			(xy 335.28 40.64) (xy 345.44 40.64)
 		)
 		(stroke
 			(width 0)
@@ -5973,16 +5983,6 @@
 	)
 	(wire
 		(pts
-			(xy 257.81 242.57) (xy 257.81 232.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8bebcdb2-f465-40d4-9a18-c45c37897dc0")
-	)
-	(wire
-		(pts
 			(xy 217.17 119.38) (xy 217.17 102.87)
 		)
 		(stroke
@@ -6000,6 +6000,16 @@
 			(type default)
 		)
 		(uuid "8f57aa3c-569b-4756-b384-04ce8c679457")
+	)
+	(wire
+		(pts
+			(xy 247.65 242.57) (xy 247.65 232.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9514c17a-fd67-491e-9410-cff272cae9b3")
 	)
 	(wire
 		(pts
@@ -6093,16 +6103,6 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 242.57) (xy 237.49 232.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a4d49ecd-36a2-4495-9dcc-35da74a270bc")
-	)
-	(wire
-		(pts
 			(xy 269.24 179.07) (xy 260.35 179.07)
 		)
 		(stroke
@@ -6140,6 +6140,16 @@
 			(type default)
 		)
 		(uuid "aabfe00a-4f1e-4385-afeb-5763ed9b5489")
+	)
+	(wire
+		(pts
+			(xy 257.81 242.57) (xy 257.81 232.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "abd16ef8-deb2-486d-b8d1-6606dcbe7d63")
 	)
 	(wire
 		(pts
@@ -6283,16 +6293,6 @@
 	)
 	(wire
 		(pts
-			(xy 247.65 242.57) (xy 247.65 232.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c6b564b0-b383-49d5-9bf7-a9510885e7d2")
-	)
-	(wire
-		(pts
 			(xy 97.79 48.26) (xy 76.2 48.26)
 		)
 		(stroke
@@ -6373,16 +6373,6 @@
 	)
 	(wire
 		(pts
-			(xy 267.97 242.57) (xy 267.97 232.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d595747b-a25c-4f7e-87d4-c30cefca2cf1")
-	)
-	(wire
-		(pts
 			(xy 360.68 67.31) (xy 360.68 66.04)
 		)
 		(stroke
@@ -6460,6 +6450,16 @@
 			(type default)
 		)
 		(uuid "de2718ec-52a0-42f4-824f-f57b658c839a")
+	)
+	(wire
+		(pts
+			(xy 237.49 242.57) (xy 237.49 232.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "df005f84-faa1-477f-a99f-a31da81a5fef")
 	)
 	(wire
 		(pts
@@ -10960,8 +10960,18 @@
 		)
 		(uuid "4de7de20-a70d-43dd-bebe-4435b8960bf5")
 	)
+	(label "VIN_F"
+		(at 317.5 40.64 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4f795a3a-c07a-4e94-9848-a80a3fff84fd")
+	)
 	(label "NU_DET1"
-		(at 267.97 242.57 90)
+		(at 196.85 242.57 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11050,6 +11060,16 @@
 		)
 		(uuid "8f04131b-a2c9-4e25-a127-f069f268ccbd")
 	)
+	(label "VIN"
+		(at 337.82 40.64 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "915d3ce7-4413-4a19-88f9-5c94ba419acf")
+	)
 	(label "GPIO_2"
 		(at 148.59 201.93 180)
 		(effects
@@ -11060,6 +11080,16 @@
 		)
 		(uuid "966ae7b3-bde0-43e7-a977-71d57f150b45")
 	)
+	(label "MISO"
+		(at 247.65 242.57 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "97ff3bd9-d2b4-42a8-bce5-b989570ea11b")
+	)
 	(label "~{CS_R}"
 		(at 241.3 184.15 0)
 		(effects
@@ -11069,26 +11099,6 @@
 			(justify left bottom)
 		)
 		(uuid "9860448d-208c-4c43-ba05-4062293cef3b")
-	)
-	(label "CLK"
-		(at 237.49 242.57 90)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "9ed0b879-3439-4e9e-9d57-23ad0cc5e216")
-	)
-	(label "MISO"
-		(at 247.65 242.57 90)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "a051d7eb-6b8e-4850-8b6d-210fa61eb311")
 	)
 	(label "MISO_R"
 		(at 241.3 179.07 0)
@@ -11150,16 +11160,6 @@
 		)
 		(uuid "bf7ed404-3e87-462b-bfe5-06d27b261e2e")
 	)
-	(label "NU_DAT1"
-		(at 257.81 242.57 90)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "cd8ff07b-9406-433c-82fb-6a9d1a650032")
-	)
 	(label "RELAIS_2"
 		(at 88.9 217.17 0)
 		(effects
@@ -11200,6 +11200,26 @@
 		)
 		(uuid "f44aaf41-75be-45ad-b0c6-a971691fb698")
 	)
+	(label "NU_DAT1"
+		(at 237.49 242.57 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f66d00e1-3f76-444e-98eb-527604f0cb79")
+	)
+	(label "CLK"
+		(at 257.81 242.57 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f67b00b0-38dc-4f5f-bf0a-36314a8009b9")
+	)
 	(label "CLK"
 		(at 318.77 222.25 0)
 		(effects
@@ -11209,6 +11229,71 @@
 			(justify left bottom)
 		)
 		(uuid "fe591b1c-e41d-41ab-a9df-a24faa883a28")
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 387.35 234.95 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "00fa56f0-1b4e-4d4a-8858-4198a00b1d71")
+		(property "Reference" "#PWR056"
+			(at 393.7 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 391.16 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 387.35 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 387.35 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 387.35 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "29b585aa-a475-49d1-bec6-06c80028e2b3")
+		)
+		(instances
+			(project "LapX"
+				(path "/2ea4f15b-0502-4d50-a32b-ced3c2cfa983"
+					(reference "#PWR056")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "power:GND")
@@ -11983,7 +12068,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Pack04_Split")
-		(at 227.33 228.6 0)
+		(at 217.17 228.6 0)
 		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11992,7 +12077,7 @@
 		(fields_autoplaced yes)
 		(uuid "1db7857f-c0ae-49cd-8d76-23350ee4b0fd")
 		(property "Reference" "RN1"
-			(at 229.87 227.3299 0)
+			(at 219.71 227.3299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12001,7 +12086,7 @@
 			)
 		)
 		(property "Value" "47k"
-			(at 229.87 229.8699 0)
+			(at 219.71 229.8699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12010,7 +12095,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_Array_Convex_4x0603"
-			(at 225.298 228.6 90)
+			(at 215.138 228.6 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12019,7 +12104,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 227.33 228.6 0)
+			(at 217.17 228.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12028,7 +12113,7 @@
 			)
 		)
 		(property "Description" "4 resistor network, parallel topology, split"
-			(at 227.33 228.6 0)
+			(at 217.17 228.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12061,7 +12146,7 @@
 			(uuid "8cf97ad4-97cd-4924-abae-760802ab08df")
 		)
 		(instances
-			(project ""
+			(project "LapX"
 				(path "/2ea4f15b-0502-4d50-a32b-ced3c2cfa983"
 					(reference "RN1")
 					(unit 3)
@@ -12189,28 +12274,28 @@
 			)
 		)
 		(pin "5"
-			(uuid "c0dc5397-f961-4d8d-8dcb-9e7ed7bd6b3f")
+			(uuid "c0dc5397-f961-4d8d-8dcb-9e7ed7bd6b40")
 		)
 		(pin "1"
-			(uuid "ffa0e4ad-5362-4922-baf2-06cdf67808b4")
+			(uuid "ffa0e4ad-5362-4922-baf2-06cdf67808b5")
 		)
 		(pin "2"
-			(uuid "040bdaf6-4931-44ca-b7af-592e8b30dd71")
+			(uuid "040bdaf6-4931-44ca-b7af-592e8b30dd72")
 		)
 		(pin "6"
 			(uuid "4de920a7-5f52-445c-9306-de6cbc5caffd")
 		)
 		(pin "4"
-			(uuid "e7283a04-1c60-40f4-9560-0637b55245ac")
+			(uuid "e7283a04-1c60-40f4-9560-0637b55245ad")
 		)
 		(pin "8"
-			(uuid "0ec1172d-b631-4969-a881-7bd7d57ef476")
+			(uuid "0ec1172d-b631-4969-a881-7bd7d57ef477")
 		)
 		(pin "3"
 			(uuid "8e472ce9-cabb-4fce-b733-db41904652a1")
 		)
 		(pin "7"
-			(uuid "8cf97ad4-97cd-4924-abae-760802ab08df")
+			(uuid "8cf97ad4-97cd-4924-abae-760802ab08e0")
 		)
 		(instances
 			(project "LapX"
@@ -13370,7 +13455,7 @@
 	)
 	(symbol
 		(lib_id "Device:FerriteBead")
-		(at 334.01 40.64 90)
+		(at 331.47 40.64 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13379,7 +13464,7 @@
 		(fields_autoplaced yes)
 		(uuid "5fd60ed0-912a-4d45-b6c9-09e99808223e")
 		(property "Reference" "FB1"
-			(at 333.9592 33.02 90)
+			(at 331.4192 33.02 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13387,7 +13472,7 @@
 			)
 		)
 		(property "Value" "FerriteBead"
-			(at 333.9592 35.56 90)
+			(at 331.4192 35.56 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13395,7 +13480,7 @@
 			)
 		)
 		(property "Footprint" "Inductor_SMD:L_0603_1608Metric"
-			(at 334.01 42.418 90)
+			(at 331.47 42.418 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13404,7 +13489,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 334.01 40.64 0)
+			(at 331.47 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13413,7 +13498,7 @@
 			)
 		)
 		(property "Description" "Ferrite bead"
-			(at 334.01 40.64 0)
+			(at 331.47 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13491,52 +13576,52 @@
 			)
 		)
 		(pin "11"
-			(uuid "6fb053e6-ed00-4ea4-ad97-0df725a084f6")
+			(uuid "6fb053e6-ed00-4ea4-ad97-0df725a084f7")
 		)
 		(pin "2"
-			(uuid "f59a2aac-1a10-40c3-a3fe-b87a8290dda0")
+			(uuid "f59a2aac-1a10-40c3-a3fe-b87a8290dda1")
 		)
 		(pin "9"
-			(uuid "52564012-455c-43eb-b869-d40ad9ad1821")
+			(uuid "52564012-455c-43eb-b869-d40ad9ad1822")
 		)
 		(pin "1"
-			(uuid "148108f3-7a7b-4ad1-bc45-3de211ffa6a1")
+			(uuid "148108f3-7a7b-4ad1-bc45-3de211ffa6a2")
 		)
 		(pin "4"
-			(uuid "641a65be-d4b7-4232-ade0-b9fda7d19db2")
+			(uuid "641a65be-d4b7-4232-ade0-b9fda7d19db3")
 		)
 		(pin "7"
-			(uuid "47c2f97b-f9a1-44c1-aee7-fd4063139e68")
+			(uuid "47c2f97b-f9a1-44c1-aee7-fd4063139e69")
 		)
 		(pin "14"
-			(uuid "36126521-ef33-489a-97f6-40c0641e86ea")
+			(uuid "36126521-ef33-489a-97f6-40c0641e86eb")
 		)
 		(pin "3"
-			(uuid "df7c9d58-b97b-4e19-a1a8-9fa1b3ff6c07")
+			(uuid "df7c9d58-b97b-4e19-a1a8-9fa1b3ff6c08")
 		)
 		(pin "10"
-			(uuid "03c960a7-e355-451b-9b30-331ef97a557f")
+			(uuid "03c960a7-e355-451b-9b30-331ef97a5580")
 		)
 		(pin "13"
-			(uuid "3e732848-7cc7-4e6d-857e-a77867dc30bc")
+			(uuid "3e732848-7cc7-4e6d-857e-a77867dc30bd")
 		)
 		(pin "6"
-			(uuid "74085abd-302c-4f06-a3bc-1e1178035b05")
+			(uuid "74085abd-302c-4f06-a3bc-1e1178035b06")
 		)
 		(pin "5"
-			(uuid "fe143d66-4348-4d3b-aade-49f87ffa389e")
+			(uuid "fe143d66-4348-4d3b-aade-49f87ffa389f")
 		)
 		(pin "16"
-			(uuid "c4d79000-50fb-4444-8192-d05417172f2f")
+			(uuid "c4d79000-50fb-4444-8192-d05417172f30")
 		)
 		(pin "15"
-			(uuid "e43b6686-c23f-46eb-9a2c-4159ca0fac85")
+			(uuid "e43b6686-c23f-46eb-9a2c-4159ca0fac86")
 		)
 		(pin "12"
-			(uuid "62c4cc1a-dfb2-410e-8388-3d0dcd523833")
+			(uuid "62c4cc1a-dfb2-410e-8388-3d0dcd523834")
 		)
 		(pin "8"
-			(uuid "74c308ce-46ab-4e2f-ad93-250e69b87b41")
+			(uuid "74c308ce-46ab-4e2f-ad93-250e69b87b42")
 		)
 		(instances
 			(project ""
@@ -13665,19 +13750,19 @@
 			)
 		)
 		(pin "5"
-			(uuid "c0dc5397-f961-4d8d-8dcb-9e7ed7bd6b40")
+			(uuid "c0dc5397-f961-4d8d-8dcb-9e7ed7bd6b41")
 		)
 		(pin "1"
 			(uuid "cb51deb1-2315-4038-ad85-f998872c93c9")
 		)
 		(pin "2"
-			(uuid "040bdaf6-4931-44ca-b7af-592e8b30dd72")
+			(uuid "040bdaf6-4931-44ca-b7af-592e8b30dd73")
 		)
 		(pin "6"
 			(uuid "6aae7741-c615-43c3-9edf-8875691f8142")
 		)
 		(pin "4"
-			(uuid "e7283a04-1c60-40f4-9560-0637b55245ad")
+			(uuid "e7283a04-1c60-40f4-9560-0637b55245ae")
 		)
 		(pin "8"
 			(uuid "26515af6-dd33-4b92-8994-a7abf1790022")
@@ -13686,7 +13771,7 @@
 			(uuid "ef7212e6-59b6-45dd-b838-f04ea58046d5")
 		)
 		(pin "7"
-			(uuid "8cf97ad4-97cd-4924-abae-760802ab08e0")
+			(uuid "8cf97ad4-97cd-4924-abae-760802ab08e1")
 		)
 		(instances
 			(project "LapX"
@@ -13699,7 +13784,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Pack04_Split")
-		(at 207.01 228.6 0)
+		(at 196.85 228.6 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13708,7 +13793,7 @@
 		(fields_autoplaced yes)
 		(uuid "6c2feee1-9367-4f57-9de1-61d6e52d451a")
 		(property "Reference" "RN1"
-			(at 209.55 227.3299 0)
+			(at 199.39 227.3299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13717,7 +13802,7 @@
 			)
 		)
 		(property "Value" "47k"
-			(at 209.55 229.8699 0)
+			(at 199.39 229.8699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13726,7 +13811,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_Array_Convex_4x0603"
-			(at 204.978 228.6 90)
+			(at 194.818 228.6 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13735,7 +13820,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 207.01 228.6 0)
+			(at 196.85 228.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13744,7 +13829,7 @@
 			)
 		)
 		(property "Description" "4 resistor network, parallel topology, split"
-			(at 207.01 228.6 0)
+			(at 196.85 228.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13753,31 +13838,31 @@
 			)
 		)
 		(pin "5"
-			(uuid "c0dc5397-f961-4d8d-8dcb-9e7ed7bd6b40")
+			(uuid "c0dc5397-f961-4d8d-8dcb-9e7ed7bd6b42")
 		)
 		(pin "1"
-			(uuid "ffa0e4ad-5362-4922-baf2-06cdf67808b5")
+			(uuid "ffa0e4ad-5362-4922-baf2-06cdf67808b6")
 		)
 		(pin "2"
-			(uuid "040bdaf6-4931-44ca-b7af-592e8b30dd72")
+			(uuid "040bdaf6-4931-44ca-b7af-592e8b30dd74")
 		)
 		(pin "6"
-			(uuid "6aae7741-c615-43c3-9edf-8875691f8142")
+			(uuid "6aae7741-c615-43c3-9edf-8875691f8143")
 		)
 		(pin "4"
-			(uuid "e7283a04-1c60-40f4-9560-0637b55245ad")
+			(uuid "e7283a04-1c60-40f4-9560-0637b55245af")
 		)
 		(pin "8"
-			(uuid "0ec1172d-b631-4969-a881-7bd7d57ef477")
+			(uuid "0ec1172d-b631-4969-a881-7bd7d57ef478")
 		)
 		(pin "3"
-			(uuid "ef7212e6-59b6-45dd-b838-f04ea58046d5")
+			(uuid "ef7212e6-59b6-45dd-b838-f04ea58046d6")
 		)
 		(pin "7"
-			(uuid "8cf97ad4-97cd-4924-abae-760802ab08e0")
+			(uuid "8cf97ad4-97cd-4924-abae-760802ab08e2")
 		)
 		(instances
-			(project ""
+			(project "LapX"
 				(path "/2ea4f15b-0502-4d50-a32b-ced3c2cfa983"
 					(reference "RN1")
 					(unit 1)
@@ -13905,52 +13990,52 @@
 			)
 		)
 		(pin "11"
-			(uuid "6fb053e6-ed00-4ea4-ad97-0df725a084f6")
+			(uuid "6fb053e6-ed00-4ea4-ad97-0df725a084f8")
 		)
 		(pin "2"
-			(uuid "f59a2aac-1a10-40c3-a3fe-b87a8290dda0")
+			(uuid "f59a2aac-1a10-40c3-a3fe-b87a8290dda2")
 		)
 		(pin "9"
-			(uuid "52564012-455c-43eb-b869-d40ad9ad1821")
+			(uuid "52564012-455c-43eb-b869-d40ad9ad1823")
 		)
 		(pin "1"
-			(uuid "148108f3-7a7b-4ad1-bc45-3de211ffa6a1")
+			(uuid "148108f3-7a7b-4ad1-bc45-3de211ffa6a3")
 		)
 		(pin "4"
-			(uuid "641a65be-d4b7-4232-ade0-b9fda7d19db2")
+			(uuid "641a65be-d4b7-4232-ade0-b9fda7d19db4")
 		)
 		(pin "7"
-			(uuid "47c2f97b-f9a1-44c1-aee7-fd4063139e68")
+			(uuid "47c2f97b-f9a1-44c1-aee7-fd4063139e6a")
 		)
 		(pin "14"
-			(uuid "36126521-ef33-489a-97f6-40c0641e86ea")
+			(uuid "36126521-ef33-489a-97f6-40c0641e86ec")
 		)
 		(pin "3"
-			(uuid "df7c9d58-b97b-4e19-a1a8-9fa1b3ff6c07")
+			(uuid "df7c9d58-b97b-4e19-a1a8-9fa1b3ff6c09")
 		)
 		(pin "10"
-			(uuid "03c960a7-e355-451b-9b30-331ef97a557f")
+			(uuid "03c960a7-e355-451b-9b30-331ef97a5581")
 		)
 		(pin "13"
-			(uuid "3e732848-7cc7-4e6d-857e-a77867dc30bc")
+			(uuid "3e732848-7cc7-4e6d-857e-a77867dc30be")
 		)
 		(pin "6"
-			(uuid "74085abd-302c-4f06-a3bc-1e1178035b05")
+			(uuid "74085abd-302c-4f06-a3bc-1e1178035b07")
 		)
 		(pin "5"
-			(uuid "fe143d66-4348-4d3b-aade-49f87ffa389e")
+			(uuid "fe143d66-4348-4d3b-aade-49f87ffa38a0")
 		)
 		(pin "16"
-			(uuid "c4d79000-50fb-4444-8192-d05417172f2f")
+			(uuid "c4d79000-50fb-4444-8192-d05417172f31")
 		)
 		(pin "15"
-			(uuid "e43b6686-c23f-46eb-9a2c-4159ca0fac85")
+			(uuid "e43b6686-c23f-46eb-9a2c-4159ca0fac87")
 		)
 		(pin "12"
-			(uuid "62c4cc1a-dfb2-410e-8388-3d0dcd523833")
+			(uuid "62c4cc1a-dfb2-410e-8388-3d0dcd523835")
 		)
 		(pin "8"
-			(uuid "74c308ce-46ab-4e2f-ad93-250e69b87b41")
+			(uuid "74c308ce-46ab-4e2f-ad93-250e69b87b43")
 		)
 		(instances
 			(project ""
@@ -14067,7 +14152,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 267.97 222.25 0)
+		(at 196.85 222.25 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14075,7 +14160,7 @@
 		(dnp no)
 		(uuid "7cb4c064-7e81-483a-95d7-924acd5be973")
 		(property "Reference" "#PWR047"
-			(at 267.97 226.06 0)
+			(at 196.85 226.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14084,7 +14169,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 267.97 218.44 0)
+			(at 196.85 218.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14092,7 +14177,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 267.97 222.25 0)
+			(at 196.85 222.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14101,7 +14186,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 267.97 222.25 0)
+			(at 196.85 222.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14110,7 +14195,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 267.97 222.25 0)
+			(at 196.85 222.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14196,7 +14281,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Pack04_Split")
-		(at 267.97 228.6 0)
+		(at 257.81 228.6 0)
 		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14205,7 +14290,7 @@
 		(fields_autoplaced yes)
 		(uuid "7fcbe46e-c1aa-405c-8e9b-f079960e3685")
 		(property "Reference" "RN2"
-			(at 270.51 227.3299 0)
+			(at 260.35 227.3299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14214,7 +14299,7 @@
 			)
 		)
 		(property "Value" "47k"
-			(at 270.51 229.8699 0)
+			(at 260.35 229.8699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14223,7 +14308,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_Array_Convex_4x0603"
-			(at 265.938 228.6 90)
+			(at 255.778 228.6 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14232,7 +14317,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 267.97 228.6 0)
+			(at 257.81 228.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14241,7 +14326,7 @@
 			)
 		)
 		(property "Description" "4 resistor network, parallel topology, split"
-			(at 267.97 228.6 0)
+			(at 257.81 228.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14250,28 +14335,28 @@
 			)
 		)
 		(pin "5"
-			(uuid "c0dc5397-f961-4d8d-8dcb-9e7ed7bd6b41")
+			(uuid "c0dc5397-f961-4d8d-8dcb-9e7ed7bd6b43")
 		)
 		(pin "1"
-			(uuid "ffa0e4ad-5362-4922-baf2-06cdf67808b6")
+			(uuid "ffa0e4ad-5362-4922-baf2-06cdf67808b7")
 		)
 		(pin "2"
-			(uuid "040bdaf6-4931-44ca-b7af-592e8b30dd73")
+			(uuid "040bdaf6-4931-44ca-b7af-592e8b30dd75")
 		)
 		(pin "6"
 			(uuid "e5d8c2ec-306e-440a-8e89-c6f1f965c78c")
 		)
 		(pin "4"
-			(uuid "e7283a04-1c60-40f4-9560-0637b55245ae")
+			(uuid "e7283a04-1c60-40f4-9560-0637b55245b0")
 		)
 		(pin "8"
-			(uuid "0ec1172d-b631-4969-a881-7bd7d57ef478")
+			(uuid "0ec1172d-b631-4969-a881-7bd7d57ef479")
 		)
 		(pin "3"
 			(uuid "e3792494-dffe-4c10-81ca-2cf75d562747")
 		)
 		(pin "7"
-			(uuid "8cf97ad4-97cd-4924-abae-760802ab08e1")
+			(uuid "8cf97ad4-97cd-4924-abae-760802ab08e3")
 		)
 		(instances
 			(project "LapX"
@@ -14354,7 +14439,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Pack04_Split")
-		(at 278.13 228.6 0)
+		(at 267.97 228.6 0)
 		(unit 4)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14363,7 +14448,7 @@
 		(fields_autoplaced yes)
 		(uuid "83bd82bb-1566-4962-b8d2-119b41aa4707")
 		(property "Reference" "RN2"
-			(at 280.67 227.3299 0)
+			(at 270.51 227.3299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14372,7 +14457,7 @@
 			)
 		)
 		(property "Value" "47k"
-			(at 280.67 229.8699 0)
+			(at 270.51 229.8699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14381,7 +14466,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_Array_Convex_4x0603"
-			(at 276.098 228.6 90)
+			(at 265.938 228.6 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14390,7 +14475,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 278.13 228.6 0)
+			(at 267.97 228.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14399,7 +14484,7 @@
 			)
 		)
 		(property "Description" "4 resistor network, parallel topology, split"
-			(at 278.13 228.6 0)
+			(at 267.97 228.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14411,25 +14496,25 @@
 			(uuid "ee745812-ed87-4434-8733-853b4e6f598a")
 		)
 		(pin "1"
-			(uuid "ffa0e4ad-5362-4922-baf2-06cdf67808b7")
+			(uuid "ffa0e4ad-5362-4922-baf2-06cdf67808b8")
 		)
 		(pin "2"
-			(uuid "040bdaf6-4931-44ca-b7af-592e8b30dd74")
+			(uuid "040bdaf6-4931-44ca-b7af-592e8b30dd77")
 		)
 		(pin "6"
-			(uuid "6aae7741-c615-43c3-9edf-8875691f8143")
+			(uuid "6aae7741-c615-43c3-9edf-8875691f8144")
 		)
 		(pin "4"
 			(uuid "1292cead-41ec-41fa-aa04-463b501642bb")
 		)
 		(pin "8"
-			(uuid "0ec1172d-b631-4969-a881-7bd7d57ef479")
+			(uuid "0ec1172d-b631-4969-a881-7bd7d57ef47a")
 		)
 		(pin "3"
-			(uuid "ef7212e6-59b6-45dd-b838-f04ea58046d6")
+			(uuid "ef7212e6-59b6-45dd-b838-f04ea58046d7")
 		)
 		(pin "7"
-			(uuid "8cf97ad4-97cd-4924-abae-760802ab08e2")
+			(uuid "8cf97ad4-97cd-4924-abae-760802ab08e5")
 		)
 		(instances
 			(project "LapX"
@@ -14442,7 +14527,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Pack04_Split")
-		(at 257.81 228.6 0)
+		(at 247.65 228.6 0)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14451,7 +14536,7 @@
 		(fields_autoplaced yes)
 		(uuid "8440e667-2f64-43a2-bd76-bfe42df23f98")
 		(property "Reference" "RN2"
-			(at 260.35 227.3299 0)
+			(at 250.19 227.3299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14460,7 +14545,7 @@
 			)
 		)
 		(property "Value" "47k"
-			(at 260.35 229.8699 0)
+			(at 250.19 229.8699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14469,7 +14554,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_Array_Convex_4x0603"
-			(at 255.778 228.6 90)
+			(at 245.618 228.6 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14478,7 +14563,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 257.81 228.6 0)
+			(at 247.65 228.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14487,7 +14572,7 @@
 			)
 		)
 		(property "Description" "4 resistor network, parallel topology, split"
-			(at 257.81 228.6 0)
+			(at 247.65 228.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14496,25 +14581,25 @@
 			)
 		)
 		(pin "5"
-			(uuid "c0dc5397-f961-4d8d-8dcb-9e7ed7bd6b42")
+			(uuid "c0dc5397-f961-4d8d-8dcb-9e7ed7bd6b44")
 		)
 		(pin "1"
-			(uuid "ffa0e4ad-5362-4922-baf2-06cdf67808b8")
+			(uuid "ffa0e4ad-5362-4922-baf2-06cdf67808b9")
 		)
 		(pin "2"
 			(uuid "ad1eb137-6577-4ef5-8e11-0d90b0bbe4ea")
 		)
 		(pin "6"
-			(uuid "6aae7741-c615-43c3-9edf-8875691f8144")
+			(uuid "6aae7741-c615-43c3-9edf-8875691f8145")
 		)
 		(pin "4"
-			(uuid "e7283a04-1c60-40f4-9560-0637b55245af")
+			(uuid "e7283a04-1c60-40f4-9560-0637b55245b1")
 		)
 		(pin "8"
-			(uuid "0ec1172d-b631-4969-a881-7bd7d57ef47a")
+			(uuid "0ec1172d-b631-4969-a881-7bd7d57ef47b")
 		)
 		(pin "3"
-			(uuid "ef7212e6-59b6-45dd-b838-f04ea58046d7")
+			(uuid "ef7212e6-59b6-45dd-b838-f04ea58046d8")
 		)
 		(pin "7"
 			(uuid "b9f629e2-88db-4302-9470-1dda7b0b5299")
@@ -15487,25 +15572,25 @@
 			)
 		)
 		(pin "5"
-			(uuid "c0dc5397-f961-4d8d-8dcb-9e7ed7bd6b43")
+			(uuid "c0dc5397-f961-4d8d-8dcb-9e7ed7bd6b45")
 		)
 		(pin "1"
-			(uuid "ffa0e4ad-5362-4922-baf2-06cdf67808b9")
+			(uuid "ffa0e4ad-5362-4922-baf2-06cdf67808bb")
 		)
 		(pin "2"
 			(uuid "3084051e-d7ef-4e0a-9d55-39c585002035")
 		)
 		(pin "6"
-			(uuid "6aae7741-c615-43c3-9edf-8875691f8145")
+			(uuid "6aae7741-c615-43c3-9edf-8875691f8147")
 		)
 		(pin "4"
-			(uuid "e7283a04-1c60-40f4-9560-0637b55245b0")
+			(uuid "e7283a04-1c60-40f4-9560-0637b55245b2")
 		)
 		(pin "8"
-			(uuid "0ec1172d-b631-4969-a881-7bd7d57ef47b")
+			(uuid "0ec1172d-b631-4969-a881-7bd7d57ef47d")
 		)
 		(pin "3"
-			(uuid "ef7212e6-59b6-45dd-b838-f04ea58046d8")
+			(uuid "ef7212e6-59b6-45dd-b838-f04ea58046da")
 		)
 		(pin "7"
 			(uuid "7db2d70e-b44c-412b-ab40-99b22c1ddea6")
@@ -15930,7 +16015,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Pack04_Split")
-		(at 217.17 228.6 0)
+		(at 207.01 228.6 0)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15939,7 +16024,7 @@
 		(fields_autoplaced yes)
 		(uuid "d75f8eea-e9ba-426b-b4d9-f6675f3a29f3")
 		(property "Reference" "RN1"
-			(at 219.71 227.3299 0)
+			(at 209.55 227.3299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15948,7 +16033,7 @@
 			)
 		)
 		(property "Value" "47k"
-			(at 219.71 229.8699 0)
+			(at 209.55 229.8699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15957,7 +16042,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_Array_Convex_4x0603"
-			(at 215.138 228.6 90)
+			(at 204.978 228.6 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15966,7 +16051,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 217.17 228.6 0)
+			(at 207.01 228.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15975,7 +16060,7 @@
 			)
 		)
 		(property "Description" "4 resistor network, parallel topology, split"
-			(at 217.17 228.6 0)
+			(at 207.01 228.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15984,31 +16069,31 @@
 			)
 		)
 		(pin "5"
-			(uuid "c0dc5397-f961-4d8d-8dcb-9e7ed7bd6b43")
+			(uuid "c0dc5397-f961-4d8d-8dcb-9e7ed7bd6b46")
 		)
 		(pin "1"
-			(uuid "ffa0e4ad-5362-4922-baf2-06cdf67808b9")
+			(uuid "ffa0e4ad-5362-4922-baf2-06cdf67808bc")
 		)
 		(pin "2"
-			(uuid "040bdaf6-4931-44ca-b7af-592e8b30dd75")
+			(uuid "040bdaf6-4931-44ca-b7af-592e8b30dd78")
 		)
 		(pin "6"
-			(uuid "6aae7741-c615-43c3-9edf-8875691f8145")
+			(uuid "6aae7741-c615-43c3-9edf-8875691f8148")
 		)
 		(pin "4"
-			(uuid "e7283a04-1c60-40f4-9560-0637b55245b0")
+			(uuid "e7283a04-1c60-40f4-9560-0637b55245b3")
 		)
 		(pin "8"
-			(uuid "0ec1172d-b631-4969-a881-7bd7d57ef47b")
+			(uuid "0ec1172d-b631-4969-a881-7bd7d57ef47e")
 		)
 		(pin "3"
-			(uuid "ef7212e6-59b6-45dd-b838-f04ea58046d8")
+			(uuid "ef7212e6-59b6-45dd-b838-f04ea58046db")
 		)
 		(pin "7"
-			(uuid "8cf97ad4-97cd-4924-abae-760802ab08e3")
+			(uuid "8cf97ad4-97cd-4924-abae-760802ab08e6")
 		)
 		(instances
-			(project ""
+			(project "LapX"
 				(path "/2ea4f15b-0502-4d50-a32b-ced3c2cfa983"
 					(reference "RN1")
 					(unit 2)
@@ -16271,52 +16356,52 @@
 			)
 		)
 		(pin "11"
-			(uuid "6fb053e6-ed00-4ea4-ad97-0df725a084f6")
+			(uuid "6fb053e6-ed00-4ea4-ad97-0df725a084f9")
 		)
 		(pin "2"
-			(uuid "f59a2aac-1a10-40c3-a3fe-b87a8290dda0")
+			(uuid "f59a2aac-1a10-40c3-a3fe-b87a8290dda3")
 		)
 		(pin "9"
-			(uuid "52564012-455c-43eb-b869-d40ad9ad1821")
+			(uuid "52564012-455c-43eb-b869-d40ad9ad1824")
 		)
 		(pin "1"
-			(uuid "148108f3-7a7b-4ad1-bc45-3de211ffa6a1")
+			(uuid "148108f3-7a7b-4ad1-bc45-3de211ffa6a4")
 		)
 		(pin "4"
-			(uuid "641a65be-d4b7-4232-ade0-b9fda7d19db2")
+			(uuid "641a65be-d4b7-4232-ade0-b9fda7d19db5")
 		)
 		(pin "7"
-			(uuid "47c2f97b-f9a1-44c1-aee7-fd4063139e68")
+			(uuid "47c2f97b-f9a1-44c1-aee7-fd4063139e6b")
 		)
 		(pin "14"
-			(uuid "36126521-ef33-489a-97f6-40c0641e86ea")
+			(uuid "36126521-ef33-489a-97f6-40c0641e86ed")
 		)
 		(pin "3"
-			(uuid "df7c9d58-b97b-4e19-a1a8-9fa1b3ff6c07")
+			(uuid "df7c9d58-b97b-4e19-a1a8-9fa1b3ff6c0a")
 		)
 		(pin "10"
-			(uuid "03c960a7-e355-451b-9b30-331ef97a557f")
+			(uuid "03c960a7-e355-451b-9b30-331ef97a5582")
 		)
 		(pin "13"
-			(uuid "3e732848-7cc7-4e6d-857e-a77867dc30bc")
+			(uuid "3e732848-7cc7-4e6d-857e-a77867dc30bf")
 		)
 		(pin "6"
-			(uuid "74085abd-302c-4f06-a3bc-1e1178035b05")
+			(uuid "74085abd-302c-4f06-a3bc-1e1178035b08")
 		)
 		(pin "5"
-			(uuid "fe143d66-4348-4d3b-aade-49f87ffa389e")
+			(uuid "fe143d66-4348-4d3b-aade-49f87ffa38a1")
 		)
 		(pin "16"
-			(uuid "c4d79000-50fb-4444-8192-d05417172f2f")
+			(uuid "c4d79000-50fb-4444-8192-d05417172f32")
 		)
 		(pin "15"
-			(uuid "e43b6686-c23f-46eb-9a2c-4159ca0fac85")
+			(uuid "e43b6686-c23f-46eb-9a2c-4159ca0fac88")
 		)
 		(pin "12"
-			(uuid "62c4cc1a-dfb2-410e-8388-3d0dcd523833")
+			(uuid "62c4cc1a-dfb2-410e-8388-3d0dcd523836")
 		)
 		(pin "8"
-			(uuid "74c308ce-46ab-4e2f-ad93-250e69b87b41")
+			(uuid "74c308ce-46ab-4e2f-ad93-250e69b87b44")
 		)
 		(instances
 			(project ""
@@ -16539,7 +16624,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Pack04_Split")
-		(at 237.49 228.6 0)
+		(at 227.33 228.6 0)
 		(unit 4)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16548,6 +16633,94 @@
 		(fields_autoplaced yes)
 		(uuid "ebfc9d27-8484-45ea-93fc-22de31130fd4")
 		(property "Reference" "RN1"
+			(at 229.87 227.3299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "47k"
+			(at 229.87 229.8699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_Array_Convex_4x0603"
+			(at 225.298 228.6 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 227.33 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "4 resistor network, parallel topology, split"
+			(at 227.33 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "5"
+			(uuid "c0dc5397-f961-4d8d-8dcb-9e7ed7bd6b47")
+		)
+		(pin "1"
+			(uuid "ffa0e4ad-5362-4922-baf2-06cdf67808bd")
+		)
+		(pin "2"
+			(uuid "040bdaf6-4931-44ca-b7af-592e8b30dd79")
+		)
+		(pin "6"
+			(uuid "6aae7741-c615-43c3-9edf-8875691f8149")
+		)
+		(pin "4"
+			(uuid "e7283a04-1c60-40f4-9560-0637b55245b4")
+		)
+		(pin "8"
+			(uuid "0ec1172d-b631-4969-a881-7bd7d57ef47f")
+		)
+		(pin "3"
+			(uuid "ef7212e6-59b6-45dd-b838-f04ea58046dc")
+		)
+		(pin "7"
+			(uuid "8cf97ad4-97cd-4924-abae-760802ab08e7")
+		)
+		(instances
+			(project "LapX"
+				(path "/2ea4f15b-0502-4d50-a32b-ced3c2cfa983"
+					(reference "RN1")
+					(unit 4)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Pack04_Split")
+		(at 237.49 228.6 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ed8e1907-a123-47ad-ada9-573809fcbd0e")
+		(property "Reference" "RN2"
 			(at 240.03 227.3299 0)
 			(effects
 				(font
@@ -16593,116 +16766,28 @@
 			)
 		)
 		(pin "5"
-			(uuid "c0dc5397-f961-4d8d-8dcb-9e7ed7bd6b44")
-		)
-		(pin "1"
-			(uuid "ffa0e4ad-5362-4922-baf2-06cdf67808ba")
-		)
-		(pin "2"
-			(uuid "040bdaf6-4931-44ca-b7af-592e8b30dd76")
-		)
-		(pin "6"
-			(uuid "6aae7741-c615-43c3-9edf-8875691f8146")
-		)
-		(pin "4"
-			(uuid "e7283a04-1c60-40f4-9560-0637b55245b1")
-		)
-		(pin "8"
-			(uuid "0ec1172d-b631-4969-a881-7bd7d57ef47c")
-		)
-		(pin "3"
-			(uuid "ef7212e6-59b6-45dd-b838-f04ea58046d9")
-		)
-		(pin "7"
-			(uuid "8cf97ad4-97cd-4924-abae-760802ab08e4")
-		)
-		(instances
-			(project ""
-				(path "/2ea4f15b-0502-4d50-a32b-ced3c2cfa983"
-					(reference "RN1")
-					(unit 4)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Pack04_Split")
-		(at 247.65 228.6 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ed8e1907-a123-47ad-ada9-573809fcbd0e")
-		(property "Reference" "RN2"
-			(at 250.19 227.3299 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "47k"
-			(at 250.19 229.8699 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_Array_Convex_4x0603"
-			(at 245.618 228.6 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 247.65 228.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "4 resistor network, parallel topology, split"
-			(at 247.65 228.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "5"
-			(uuid "c0dc5397-f961-4d8d-8dcb-9e7ed7bd6b45")
+			(uuid "c0dc5397-f961-4d8d-8dcb-9e7ed7bd6b48")
 		)
 		(pin "1"
 			(uuid "4849f2ba-3384-4586-80a3-a1a93f1a872b")
 		)
 		(pin "2"
-			(uuid "040bdaf6-4931-44ca-b7af-592e8b30dd77")
+			(uuid "040bdaf6-4931-44ca-b7af-592e8b30dd7a")
 		)
 		(pin "6"
-			(uuid "6aae7741-c615-43c3-9edf-8875691f8147")
+			(uuid "6aae7741-c615-43c3-9edf-8875691f814a")
 		)
 		(pin "4"
-			(uuid "e7283a04-1c60-40f4-9560-0637b55245b2")
+			(uuid "e7283a04-1c60-40f4-9560-0637b55245b5")
 		)
 		(pin "8"
 			(uuid "0faf6429-c929-4bf5-b1ad-de0d9749592e")
 		)
 		(pin "3"
-			(uuid "ef7212e6-59b6-45dd-b838-f04ea58046da")
+			(uuid "ef7212e6-59b6-45dd-b838-f04ea58046dd")
 		)
 		(pin "7"
-			(uuid "8cf97ad4-97cd-4924-abae-760802ab08e5")
+			(uuid "8cf97ad4-97cd-4924-abae-760802ab08e8")
 		)
 		(instances
 			(project "LapX"
