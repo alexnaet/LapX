@@ -1,4 +1,4 @@
-27265007389014734
+27268550455725655
 00_Battery
 Li_Ion_Akku_18650_Blaster
 
@@ -41,6 +41,20 @@ PHOENIX_1149866
 0
 14
 14
+00_Connector
+PHOENIX_1725656
+
+
+0
+2
+2
+00_Connector
+PHOENIX_1725753
+
+
+0
+12
+12
 00_Connector
 SAMTEC-TMM-103-02-X-S
 translated Allegro footprint
