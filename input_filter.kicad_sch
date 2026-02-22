@@ -2810,7 +2810,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "1u"
 			(at 88.9 123.1899 0)
 			(effects
 				(font
@@ -3323,7 +3323,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "1u"
 			(at 88.9 69.8499 0)
 			(effects
 				(font
@@ -3618,7 +3618,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7c19999a-bc09-4864-91eb-0253f72798fc")
 		(property "Reference" "C17"
@@ -3630,7 +3630,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "1u"
 			(at 156.21 96.5199 0)
 			(effects
 				(font
@@ -3709,7 +3709,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "1u"
 			(at 133.35 96.5199 0)
 			(effects
 				(font
@@ -3852,7 +3852,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "852db726-8493-4386-a32e-3c64d08210b4")
 		(property "Reference" "C18"
@@ -3864,7 +3864,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "1u"
 			(at 156.21 123.1899 0)
 			(effects
 				(font
@@ -4019,7 +4019,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "1u"
 			(at 133.35 69.8499 0)
 			(effects
 				(font
@@ -4098,7 +4098,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "1u"
 			(at 88.9 149.8599 0)
 			(effects
 				(font
@@ -4412,7 +4412,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "1u"
 			(at 133.35 149.8599 0)
 			(effects
 				(font
@@ -5095,7 +5095,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "1u"
 			(at 88.9 96.5199 0)
 			(effects
 				(font
@@ -5162,7 +5162,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d77b2c19-125b-4955-b40b-6f0f7c67d454")
 		(property "Reference" "C16"
@@ -5174,7 +5174,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "1u"
 			(at 156.21 69.8499 0)
 			(effects
 				(font
@@ -5385,7 +5385,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ec12c813-ef3a-44e5-b976-4cdc65f715c1")
 		(property "Reference" "C19"
@@ -5397,7 +5397,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "1u"
 			(at 156.21 149.8599 0)
 			(effects
 				(font
@@ -5542,7 +5542,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "1u"
 			(at 133.35 123.1899 0)
 			(effects
 				(font
